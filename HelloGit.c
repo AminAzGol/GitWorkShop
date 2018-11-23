@@ -5,4 +5,6 @@ int main(){
     printf("Hello TO ALL Amin at D23!");
     //you should write some comments
     printf("pull request test");
+    printf("fetch test");
+
 }
